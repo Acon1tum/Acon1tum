@@ -21,4 +21,4 @@
 </p>
 
 
-[[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Acon1tum/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
