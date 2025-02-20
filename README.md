@@ -13,6 +13,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Acon1tum&theme=dark&hide_border=false&include_all_commits=true&count_private=true&langs_count=10&layout=compact&title_color=ff69b4&text_color=ff69b4" alt="usedLanguages" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Acon1tum)](https://github.com/Acon1tum/github-profile-trophy)
 -->
 <p align="center">
   <a href="https://github.com/Acon1tum">
@@ -21,5 +22,5 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Acon1tum)](https://github.com/Acon1tum/github-profile-trophy)
+
 
