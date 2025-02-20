@@ -21,5 +21,5 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Acon1tuma&row=2&column=3&theme=onedark)](https://github.com/Acon1tuma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Acon1tum)](https://github.com/Acon1tum/github-profile-trophy)
 
