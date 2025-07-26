@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">👋 Hey there, I'm <a href="https://github.com/Acon1tum">Acon1tuM</a>!</h1>
-<h2 align="center">✨ Welcome to my little corner of the code universe ✨</h2>
+<!-- <h2 align="center">✨ Welcome to my little corner of the code universe ✨</h2> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acon1tum&theme=dark&hide_border=false&count_private=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="My GitHub Streak - Keeping the code flowing!" />
