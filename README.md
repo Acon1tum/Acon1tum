@@ -28,3 +28,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Acon1tum&hide_border=true&show_icons=true&theme=dark&icon_color=ff69b4&text_color=ff69b4&title_color=ff69b4" alt="Acon1tum's GitHub Stats - No bragging, just facts 😎" />
   </a>
 </p>
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3864120" style='border:none;'></iframe>
