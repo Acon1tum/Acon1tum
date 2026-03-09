@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Acon1tum">
-    <img src="weekend-ending-middle-finger.gif" alt="When work’s done, but GitHub still calls! 👀" />
+   # <img src="weekend-ending-middle-finger.gif" alt="When work’s done, but GitHub still calls! 👀" />
   </a>
 </p>
 
